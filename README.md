@@ -1,4 +1,5 @@
 <h1> Just log in to your psql CLI and paste script. </h1>
+<h2> git clone https://github.com/avicityv/db_college.git </h2>
 <h2># cd db_college </h2>
 <h2># cat script_db.txt </h2>  <h1> - COPY THIS CODE </h1>
 <h2> psql -U postgres 
